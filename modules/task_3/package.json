@@ -1,0 +1,15 @@
+{
+  "name": "ajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "show:dist": "live-server dist"
+  },
+  "author": "coursar",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
