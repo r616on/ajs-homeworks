@@ -8,6 +8,5 @@ export default function healthStatus(obj) {
   return 'critical';
 }
 
-
-let data = { name: 'Маг', health: 14 };
+const data = { name: 'Маг', health: 14 };
 console.log(healthStatus(data));
