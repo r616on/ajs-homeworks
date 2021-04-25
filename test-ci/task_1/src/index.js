@@ -1,6 +1,5 @@
 import './css/style.css';
 
-// eslint-disable-next-line
-import './ts/app';
+import './js/app';
 
-// TODO: write your code in app.ts
+// TODO: write your code in app.js

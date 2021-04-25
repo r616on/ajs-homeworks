@@ -1,4 +1,4 @@
-import { healthStatus } from '../healthStatus.js';
+import  healthStatus  from '../healthStatus.js';
 
 test.each([
   ['healthy', { name: 'Маг', health: 99 }, 'healthy'],
